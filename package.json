@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio10",
+  "version": "1.0.0",
+  "description": "Modulo 10 Ejercicio 1 con Javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agustin Godoy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
